@@ -3,3 +3,5 @@
 </p>
 
 [![HitCount](http://hits.dwyl.com/ricardojoserf/ricardojoserf.svg)](http://hits.dwyl.com/ricardojoserf/ricardojoserf)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ricardojoserf)](https://github.com/anuraghazra/github-readme-stats)
